@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <cooking>
+    <how_to_cook_good language="english" url="https://www.w3schools.com/xml/xml_namespaces.asp">
+      <author>John "the man" Wick</author>
+      <sub_title>a basic guide to cooking</sub_title>
+      <price>$29.95</price>
+      <shipping>$3.95</shipping>
+      <description>this is just a sample book on how to add multiple lines to an xml document</description></how_to_cook_good>
+    <the_greatest_taste language="french">
+      <sub_title>an even more basic guide to cooking</sub_title>
+      <price>$89.61</price>
+      <shipping>$900.99</shipping>
+      <description>no one would ever buy this book, but hey i tried</description>
+    </the_greatest_taste>
+  </cooking>
+  <science_fiction>
+    <vagrents_guide_to_the_multiverse>
+      <sub_title>A hobos stary journey</sub_title>
+      <pice>$35.95</pice>
+      <shipping>no cost</shipping>
+      <description>sequel to the NY times #6 best seller</description>
+    </vagrents_guide_to_the_multiverse>
+    <adventures_of_the_blackhole>
+      <sub_title>the story of a blackhole that became a man</sub_title>
+      <price>$1.99</price>
+      <shipping>$100000</shipping>
+      <description>whitness the adventure of how a simple blackhole became the worlds sexiest man alive</description>
+    </adventures_of_the_blackhole>
+  </science_fiction>
+</bookstore>
